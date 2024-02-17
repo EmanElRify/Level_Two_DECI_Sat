@@ -1,0 +1,24 @@
+Circle 
+https://udacity-community.circle.so/join?invitation_token=48640c44b27f9ec1a4d77332ecdd3b7e0f1eece6-51375654-0814-4d58-b940-fdc335eb1533
+
+The code we practice and exercises
+https://github.com/EmanElRify/Level_Two_DECI_Sat
+
+VS code download
+https://code.visualstudio.com/
+
+Activity 6 
+https://docs.google.com/document/d/1nUIy-ogYPsTk5WiJ_O4HvhkFdyu2p6nu/edit?usp=sharing&ouid=114192180793604465783&rtpof=true&sd=true
+
+All activities 
+https://drive.google.com/drive/folders/1CrLoUALeq9Tn9Rxq9TmCMBi0eMR6sPZO?usp=drive_link
+
+Activity 5 solution
+https://github.com/EmanElRify/Level_Two_DECI_Sat/blob/main/Session%20%235%20(Strings%20and%20Lists)/activity%205%20solution.py
+
+Satisfaction Survey
+https://docs.google.com/forms/d/e/1FAIpQLSfBSf8FkVyxNvFds1e2Nc1P3VQqxU32Ats0MX1KgTyDM9eb3Q/viewform
+
+Quiz (Python recap 10 MCQ Questions)
+https://quizizz.com/join?gc=167696
+
