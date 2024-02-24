@@ -1,0 +1,29 @@
+Web Page for session resources (You can apply modifications on the source code)
+https://emanelrify.github.io/session_resources.github.io/
+
+Source code
+https://github.com/EmanElRify/session_resources.github.io/blob/main/index.html
+
+The code we practice and exercises
+https://github.com/EmanElRify/Level_Two_DECI_Sat
+
+VS code download
+https://code.visualstudio.com/
+
+Activity 7
+https://docs.google.com/document/d/1UZ_S-V03fdzBQOkJqiBnR60M8_B0rqbS/edit?usp=sharing&ouid=114192180793604465783&rtpof=true&sd=true
+
+All activities 
+https://drive.google.com/drive/folders/1CrLoUALeq9Tn9Rxq9TmCMBi0eMR6sPZO?usp=drive_link
+
+Activity 6 solution
+https://github.com/EmanElRify/Level_Two_DECI_Sat/blob/main/Session%20%236%20(Intro%20to%20Web%20and%20HTML)/Activity%20Solution/index.html
+
+Satisfaction Survey
+https://docs.google.com/forms/d/e/1FAIpQLSfBSf8FkVyxNvFds1e2Nc1P3VQqxU32Ats0MX1KgTyDM9eb3Q/viewform
+
+Quiz (Python recap 10 MCQ Questions)
+
+Assignment
+
+Live Quiz
