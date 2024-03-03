@@ -1,0 +1,48 @@
+
+Web Page for session resources (You can apply modifications on the source code)
+صفحة ويب لمصادر الجلسات (يمكنك تعديل الكود الأساسي)
+https://emanelrify.github.io/session_resources.github.io/
+
+Source code  الكود الأساسي لصفحة الويب
+https://github.com/EmanElRify/session_resources.github.io/blob/main/index.html
+
+Frontend developer roadmap  خريطة الطريق لمطور الواجهات الأمامية
+https://roadmap.sh/frontend
+
+Backend developer roadmap  خريطة الطريق لمطور الواجهات الخلفية
+https://roadmap.sh/backend
+
+Inline Elements  العناصر السطرية
+https://developer.mozilla.org/en-US/docs/Glossary/Inline-level_content#Elements
+
+Indetation in HTML المسافات
+https://granneman.com/webdev/coding/formatting-and-indenting-your-html
+
+The code we practice and exercises  الكود الذي نمارسه والتمارين
+https://github.com/EmanElRify/Level_Two_DECI_Sat
+
+VS code download
+https://code.visualstudio.com/
+
+Activity 8
+النشاط 8
+https://docs.google.com/document/d/1vQ1pw1O-ZLP4qcerHBKSzuhAOHsi_SI2/edit?usp=sharing&ouid=114192180793604465783&rtpof=true&sd=true
+
+All activities  جميع الأنشطة
+https://drive.google.com/drive/folders/1CrLoUALeq9Tn9Rxq9TmCMBi0eMR6sPZO?usp=drive_link
+
+Activity 7 solution
+حل النشاط 7
+https://github.com/EmanElRify/Level_Two_DECI_Sat/blob/main/Session%20%237%20(Breaks%2C%20Paragraphs%2C%20and%20Other%20Elements)/Activity_7_sol.html
+
+Satisfaction Survey
+https://docs.google.com/forms/d/e/1FAIpQLSfBSf8FkVyxNvFds1e2Nc1P3VQqxU32Ats0MX1KgTyDM9eb3Q/viewform
+
+Quiz (Python recap 10 MCQ Questions)
+Assignment
+https://quizizz.com/join?gc=95850335
+
+Quiz (HTML recap 10 MCQ Questions)
+Assignment
+https://quizizz.com/join?gc=95415896
+
