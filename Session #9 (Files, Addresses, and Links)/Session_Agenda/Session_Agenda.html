@@ -1,0 +1,140 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Learning Objectives</title>
+  <!-- <link rel="stylesheet" href=""> -->
+  <style>
+    body {
+      font-family: 'Arial', sans-serif;
+      background-color: #f4f4f4;
+      color: #333;
+      margin: 0;
+      padding: 20px;
+    }
+
+    h1 {
+      font-family: 'Georgia', serif;
+      color: #007bff;
+    }
+
+    h2 {
+      font-family: 'Georgia', serif;
+      color: #28a745;
+    }
+
+    input[type="checkbox"]:checked + label {
+      text-decoration: line-through;
+    }
+
+    label {
+      font-size: 18px;
+    }
+    .agenda_image{
+      border: 5px solid red;
+    }
+
+    #objectivesForm, #completedTasksForm {
+      margin-bottom: 20px;
+    }
+  </STYLE>
+</head>
+<body>
+
+ 
+  <!-- ordered list -->
+  <!-- <ol>
+    <li>Python
+    <li>Web Development
+    <li>Data Analysis
+  </ol> -->
+  <!-- unordered list -->
+  <!-- <ul>
+    <li>Python
+    <li>Web Development
+    <li>Data Analysis
+  </ul> -->
+
+  <h1 style="text-align: center;">Session Agenda أجندة الجلسة</h1>
+  <div style="text-align: center;">
+    <img src="agenda.png" alt="agenda" width="400" title="Agenda"  class="agenda_image" ></div>
+  <br><br>
+  <p>
+  <span style="text-align: left; border: 5px solid rgb(227, 181, 96); padding: 10px;">
+    <!-- Bad habit (Full Path) -->
+    <a href="E:\Downloads\Udacity\Level_Two_DECI_Sat\Session%20%239%20(Files,%20Addresses,%20and Links)\Session_tasks\What_to_learn_session_8.html" target="_self">Session 8 Tasks</a>
+  </span>
+  <span style="text-align: left; border: 5px solid rgb(227, 181, 96); padding: 10px;">
+    <!-- target rel  title -->
+    <a href="../Session_Tasks/What_to_learn_session_9.html"  title="Session 9 Objectives" target="_blank">Session 9 Tasks</a>
+    <!-- <a href="https://www.google.com">Google</a> -->
+  </span>
+  </p>
+  <form id="objectivesForm">
+
+    <input type="checkbox" id="objective1" name="objective1">
+    <label for="objective1">Session Rules قواعد الجلسة</label><br>
+    
+    <input type="checkbox" id="objective2" name="objective2">
+    <label for="objective2">Breaks and Empty Elements الفواصل والعناصر الفارغة</label><br>
+    
+    <input type="checkbox" id="objective3" name="objective3">
+    <label for="objective3">Paragraphs  الفقرات</label><br>
+
+    <input type="checkbox" id="objective4" name="objective4">
+    <label for="objective3">Elements and Nested Elements العناصر والعناصر المتداخلة</label><br>
+
+    <input type="checkbox" id="objective5" name="objective5">
+    <label for="objective3">Attendance 1 </label><br>
+
+
+    <input type="checkbox" id="objective6" name="objective6">
+    <label for="objective3">Break </label><br>
+
+    <input type="checkbox" id="objective7" name="objective7">
+    <label for="objective3">Activity</label><br>
+
+    <input type="checkbox" id="objective8" name="objective8">
+    <label for="objective3">Attendance 2 </label><br/>
+  <select>
+    <option>Apple</option>
+    <option>Cherry</option>
+    <option>Orange</option>
+  </select>
+  </form>
+  <a href="https://example.com">Example</a>
+  <hr>
+  
+  <h2>Completed Tasks</h2>
+  <form id="completedTasksForm">
+  
+  </form>
+<script>
+  function moveCompletedTask(checkboxId) {
+    const checkbox = document.getElementById(checkboxId);
+    const label = checkbox.nextElementSibling;
+    const completedTasksForm = document.getElementById("completedTasksForm");
+    const objectivesForm = document.getElementById("objectivesForm");
+
+    if (checkbox.checked) {
+      const clonedCheckbox = checkbox.cloneNode(true);
+      const clonedLabel = label.cloneNode(true);
+
+      completedTasksForm.appendChild(clonedCheckbox);
+      completedTasksForm.appendChild(clonedLabel);
+
+      checkbox.remove();
+      label.remove();
+    } 
+  }
+  
+
+  const objectivesForm = document.getElementById("objectivesForm");
+  objectivesForm.addEventListener("change", function(event) {
+    if (event.target.matches("input[type=checkbox]")) {
+      const checkboxId = event.target.id;
+      moveCompletedTask(checkboxId);
+    }
+  });
+</script>
+</body>
+</html>

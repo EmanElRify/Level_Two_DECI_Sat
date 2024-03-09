@@ -1,0 +1,29 @@
+The code we practice and exercises  الكود الذي نمارسه والتمارين
+https://github.com/EmanElRify/Level_Two_DECI_Sat
+
+Activity 9
+النشاط 9
+https://docs.google.com/document/d/1GtrEiXpZf0LGt1c_uF2fcjsy4KTFSQF0/edit#heading=h.gjdgxs
+
+All activities  جميع الأنشطة
+https://drive.google.com/drive/folders/1CrLoUALeq9Tn9Rxq9TmCMBi0eMR6sPZO?usp=drive_link
+
+Activity 8 solution
+حل النشاط 8
+https://github.com/EmanElRify/Level-Two-DECI/tree/main/Session%20%238%20(Block%20and%20Inline%20Elements)/activity%208%20sol
+
+Satisfaction Survey
+https://docs.google.com/forms/d/e/1FAIpQLSfBSf8FkVyxNvFds1e2Nc1P3VQqxU32Ats0MX1KgTyDM9eb3Q/viewform
+
+W3C Markup Validation Service
+https://validator.w3.org/
+
+validator nu
+https://validator.nu/
+
+[resources]
+Flex container Youtube Tutorial [Arabic]
+https://www.youtube.com/watch?v=JkCLL1CzNZk&list=PLxeyD6H4z4X7Q_LEPGFk47lOa__upNXWD
+
+DOM tree
+https://javascript.info/dom-nodes
