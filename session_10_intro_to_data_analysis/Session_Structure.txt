@@ -1,0 +1,20 @@
+How to run the notebook offline (.ipynb)
+  VS Code
+  JupyterLab (recommended)
+How to run the notebook online (.ipynb)
+  Kaggle
+  Colab
+  JupyterLab Online
+How to run the notebook on Colab 
+Notebook structure (Code + Markdown)
+Data analysis workflow
+
+
+1 2 3 4 5
+mean(average) الوسط الحسابي = sum/n = (1+2+3+4+5)/5 = 3
+median  الوسيط = the mid number in sorted(numbers)
+3 4 1 2 5
+1 2 3 4 5
+
+(50 + 25 + 100)/3 = 175/3 = 33.33 + 25 = 58.33
+average (mean) المتوسط أو الوسط الحسابي= sum / count

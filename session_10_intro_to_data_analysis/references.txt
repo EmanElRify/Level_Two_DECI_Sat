@@ -1,0 +1,29 @@
+The code we practice and exercises  الكود الذي نمارسه والتمارين
+https://github.com/EmanElRify/Level_Two_DECI_Sat
+
+Activity 10
+النشاط 10
+https://docs.google.com/document/d/1YCBt7dztfTylQfd4Y51iIaJ7x5BmRX4e/edit?usp=sharing&ouid=114192180793604465783&rtpof=true&sd=true
+
+All activities  جميع الأنشطة
+https://drive.google.com/drive/folders/1CrLoUALeq9Tn9Rxq9TmCMBi0eMR6sPZO?usp=drive_link
+
+Satisfaction Survey
+https://docs.google.com/forms/d/e/1FAIpQLSfBSf8FkVyxNvFds1e2Nc1P3VQqxU32Ats0MX1KgTyDM9eb3Q/viewform
+
+Data Analyst roadmap
+https://www.geeksforgeeks.org/data-analyst-roadmap/#:~:text=How%20to%20Become%20a%20Data%20Analyst%20%3A%20Roadmap%20%E2%80%93%20Skills%20Required%C2%A0
+
+[resources]
+Dev salaries in Egypt 2024 Dataset 
+https://drive.google.com/drive/folders/1DoSpKCJAaStrbFRtcI7yPd5pawchW-JW
+
+Intro to Data Analysis [Free course - Udacity]
+https://learn.udacity.com/courses/ud170
+
+Installing Python
+
+https://www.python.org/downloads/windows/
+
+https://www.pythonguis.com/installation/install-python-windows/
+
