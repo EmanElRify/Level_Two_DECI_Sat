@@ -4,6 +4,8 @@ https://docs.google.com/document/d/1RvZlvIKKEwLhtz-nHu-GfkDVNcJik9Ml/edit#headin
 Install Jupyterlab 
 https://crib.utwente.nl/manual/pages/jupyterlab-install-guide/index.html
 
+Assignement:
+https://quizizz.com/join?gc=89347622
 
 important modules and libraries to deal with data 
 numeric data: numpy
